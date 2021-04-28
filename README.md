@@ -22,10 +22,6 @@ lab ファイルに書かれた情報を統合して一つにまとめるツー�
 LabMerge.exe -o <出力ファイルパス> <入力ファイルパス1> <入力ファイルパス2> <入力ファイルパス3>...
 ```
 
-## 変更履歴
-
-ver 0.1 初版リリース
-
 ## 使用した OSS
 
 * [CommandLineParser](https://github.com/commandlineparser/commandline)
@@ -33,7 +29,7 @@ ver 0.1 初版リリース
 
 ## ライセンス
 
-LabMerge のバイナリは、 MIT ライセンスの元配布されます。
+LabMerge は MIT ライセンスの元配布されます。
 詳細は、 [ライセンスファイル](LICENSE) を参照してください。
 
 また、内部で使用している OSS についてのライセンスについては、以下の場所を参照してください。
